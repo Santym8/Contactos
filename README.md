@@ -16,7 +16,7 @@ Actualizar un contacto cuando tiene el mismo nombre
 <img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/Nuevo.jpg?raw=true" alt="Nuevo contacto" width="300">
 <img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/Encontrado.jpg?raw=true" alt="Contacto encontrado" width="300">
 <img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/NoEncontrado.jpg?raw=true" alt="Contacto no encontrado" width="300">
-<img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/CorreoInvalido.jpg?raw=true" alt="Correo Invalido" width="300">
+<img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/CorreoNoValido.jpg?raw=true" alt="Correo Invalido" width="300">
 <img style="margin: 5px;" src="https://github.com/Santym8/Contactos/blob/main/img/Actualizado.jpg?raw=true" alt="Contacto Actualizado" width="300">
 
 
